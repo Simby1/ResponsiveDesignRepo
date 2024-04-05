@@ -1,5 +1,7 @@
 # Frontend Mentor - Social links profile
 
+Please not that this challenge utilises the internal css method
+
 ![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
